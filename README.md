@@ -2,11 +2,11 @@
 <h3 align="center">Turning Code into Impactful Tech Solutions 🌍</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;AI%2FML+Enthusiast;Problem+Solver+%26+Thinker;Passionate+Learner+%26+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Developer;AI%2FML+Enthusiast;Problem+Solver+%26+Thinker;Passionate+Learner+%26+Builder" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="://https://www.linkedin.com/in/himanshu-ranjan-88524b273///" target="_blank">
+  <a href="https://www.linkedin.com/in/himanshu-ranjan-88524b273/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:krithimanshu4321@gmail.com">
@@ -17,29 +17,32 @@
 ---
 
 ### 💡 About Me
-🎓 I’m a passionate and driven computer science student with a keen interest in harnessing the power of AI and machine learning to create innovative tech solutions.
-🤖 With a solid foundation in programming and a deep curiosity for AI/ML, I thrive on developing intelligent applications that solve real-world problems and make a meaningful impact.
 
-🧠 Current stack:  
-Java ☕ | JavaScript 💻 | DSA 🔧 | HTML/CSS 🌐 | SQL 🗄
+- 🎓 I’m a passionate and driven computer science student with a keen interest in harnessing the power of AI and machine learning to create innovative tech solutions.  
+- 🤖 With a solid foundation in programming and a deep curiosity for AI/ML, I thrive on developing intelligent applications that solve real-world problems and make a meaningful impact.
 
-📈 My focus:  
+**🧠 Current stack:**  
+Java ☕ | JavaScript 💻 | DSA 🔧 | HTML/CSS 🌐 | SQL 🗄 | Machine Learing 💻
+
+**📈 My focus:**  
 Backend Dev 🛠 + AI/ML Integration 🧩 + Scalable Systems ⚙
 
-📚 I believe in *learning by doing* — projects, challenges, and collaboration fuel my journey.
+**📚 I believe in _learning by doing_** — projects, challenges, and collaboration fuel my journey.
 
 🤝 Let’s collaborate, innovate, and build something awesome!
 
 ---
 
 ### ⚙ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,dsa,sql,git,github,vscode,jyputier,eclipse" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,sql,git,github,vscode,jupyter,eclipse" />
 </p>
 
 ---
 
 ### 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=him77anshu&show_icons=true&theme=gruvbox&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=him77anshu&layout=compact&theme=gruvbox&hide_border=true" width="48%" />
@@ -52,6 +55,7 @@ Backend Dev 🛠 + AI/ML Integration 🧩 + Scalable Systems ⚙
 ---
 
 ### 🏆 Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=him77anshu&theme=onestar&margin-w=15&no-frame=true" />
 </p>
@@ -59,21 +63,20 @@ Backend Dev 🛠 + AI/ML Integration 🧩 + Scalable Systems ⚙
 ---
 
 ### 🌱 Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=him77anshu&theme=github-compact&hide_border=true" />
 </p>
 
 ---
 
-### ⚡ Fun Fact:
-> I debug faster when I’m listening to lo-fi beats and sipping chai ☕ 😄  
-> Bonus: I’ve never used “var” since ES6 dropped. 😎
-
----
-
 ### 🔗 Let’s Connect!
+
 <p align="center">
   <a href="https://www.linkedin.com/in/himanshu-ranjan-88524b273" target="_blank">
     <img src="https://img.shields.io/badge/Let's Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+
+
