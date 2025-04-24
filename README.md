@@ -39,7 +39,7 @@ Backend Dev 🛠 + AI/ML Integration 🧩 + Scalable Systems ⚙
 ### ⚙ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,sql,git,github,vscode,jupyter,eclipse" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,sql,git,github,vscode,eclipse" />
 </p>
 
 ---
