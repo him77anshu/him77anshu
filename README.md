@@ -12,6 +12,9 @@
   <a href="mailto:krithimanshu4321@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <a href="https://leetcode.com/u/himanshu_1331/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode&logoColor=orange" alt="LeetCode"/>
+  </a>
 </p>
 
 ---
